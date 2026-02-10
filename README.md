@@ -69,7 +69,7 @@ I’m always excited to contribute to **meaningful, real-world projects** and gr
 
 ## 📫 Let’s Connect
 - 📧 Email: deepthashinod@gmail.com  
-- 💼 LinkedIn:linkedin.com/in/deeptha-kp
+- 💼 LinkedIn: linkedin.com/in/deeptha-kp
 
 <p align="center">
   <i>Always curious, always building, always learning 🚀</i>
