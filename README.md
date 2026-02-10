@@ -1,60 +1,76 @@
-# Hi, I’m Deeptha 👋  
-### Computer Science Student | Full-Stack Developer | Business Analytics Enthusiast
+<h1 align="center">
+  Hi, I’m Deeptha 👋
+</h1>
 
-I build **clean, scalable full-stack applications** and enjoy turning **raw data into meaningful insights**.  
-Currently focused on **React, Node.js, MySQL, and Analytics-driven systems**.
+<p align="center">
+  <b>Computer Science Student • Full-Stack Developer • AI/ML & Business Analytics Enthusiast</b>
+</p>
+
+<p align="center">
+  <i>I love building technology that solves real-world problems, scales cleanly, and turns data into decisions.</i>
+</p>
 
 ---
 
-## 🚀 What I Build
-- **Full-Stack Web Apps** using React, Node.js, Express, and MySQL  
-- **Data-Driven Systems** with strong backend logic and clean UI  
-- **Business Analytics Projects** using Tableau, Power BI, and SQL  
-- **Structured & Maintainable Code** with real-world deployment experience  
+## 🚀 What I Do
+- Build **end-to-end full-stack applications** with clean architecture  
+- Design **data-driven systems** with strong backend logic and intuitive UI  
+- Explore **AI & Machine Learning** to extract patterns, predictions, and insights  
+- Deploy applications and iterate based on **real usage, not just demos**
+
+I enjoy working on projects that move beyond theory and create **practical impact**.
+
+---
+
+## 🤖 AI / Machine Learning Interests
+- Applied **Machine Learning** for prediction and classification problems  
+- Data preprocessing, feature engineering, and model evaluation  
+- Using **Python + SQL** to bridge analytics and ML workflows  
+- Exploring how **AI integrates into full-stack systems**  
+
+> My goal is to build intelligent systems that learn from data and improve decision-making.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
+### 🌐 Frontend
 React · Vite · JavaScript · HTML · CSS · Mantine UI  
 
-**Backend**  
+### ⚙️ Backend
 Node.js · Express · REST APIs  
 
-**Database & Analytics**  
+### 📊 Database & Analytics
 MySQL · SQL · Tableau · Power BI · Excel  
 
-**Tools & Platforms**  
+### 🧠 AI / ML
+Python · Machine Learning Basics · Data Analysis · Model Evaluation  
+
+### 🧰 Tools & Platforms
 Git · GitHub · Vercel · Railway · Postman  
 
 ---
 
-## 📌 Featured Project
-### 🧾 Tally-Like Invoicing System
-A standalone invoicing system with VAT calculation and database persistence.
+## 🌱 How I Work & Contribute
+- Write **clean, readable, and maintainable code**
+- Focus on **scalability and real-world usability**
+- Enjoy collaborating and learning from feedback  
+- Actively explore production deployment and system design  
 
-- **Frontend:** React + Vite  
-- **Backend:** Node.js + Express  
-- **Database:** MySQL (Railway)  
-- **Live Demo:** https://tally-invoicing-system.vercel.app  
-- **Repository:** https://github.com/deepthakp/tally-invoicing-system  
+I’m always excited to contribute to **meaningful, real-world projects** and grow through hands-on problem solving.
 
 ---
 
-## 🎓 Experience & Leadership
-- **Frontend Intern – Infosys Springboard**  
-- **PR Lead – Gavel Club** (Public Relations & Communications)  
-- **PR Member – Model United Nations 2024**  
-
----
-
-## 📊 GitHub Activity
-![Deeptha's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepthakp&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthakp&layout=compact&theme=tokyonight)
+## 🎓 Experience 
+- **Full Stack Developer Intern – Infosys Springboard**  
+  
 
 ---
 
 ## 📫 Let’s Connect
-- **Email:** your-email@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/your-link  
+- 📧 Email: deepthashinod@gmail.com  
+- 💼 LinkedIn:linkedin.com/in/deeptha-kp
+
+<p align="center">
+  <i>Always curious, always building, always learning 🚀</i>
+</p>
